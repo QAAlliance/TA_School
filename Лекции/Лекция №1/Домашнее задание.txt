@@ -1,0 +1,5 @@
+1. Разобраться для чего служит SOAP
+2. Разобраться с вопросами летучки
+3. Установить Mozilla Firefox
+4. Установить плагин Selenium IDE (https://addons.mozilla.org/en-us/firefox/addon/selenium-ide/)
+5. Установить плагин firebug (https://addons.mozilla.org/en-US/firefox/addon/firebug/)

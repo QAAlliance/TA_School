@@ -1,0 +1,4 @@
+1. Научиться писать уникальные CSS Selector и xPath для ссылки View Details, в блоке "New Comments"
+2. Научиться писать уникальные CSS Selector и xPath для объекта User Avatars, в блоке Chat
+3. Научиться писать xPath для точки на графике, в блоке Area Chart Example
+4. Повторить/посмотреть что такое RegExp
